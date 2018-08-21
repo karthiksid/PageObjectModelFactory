@@ -1,0 +1,12 @@
+21/08/2018 00:15:17 devpinoyLogger launching chrome browser
+21/08/2018 00:15:31 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (f127c2a3d6e28b637cc259234e79cfa9)] -> css selector: #tab-flight-tab-hp]
+21/08/2018 00:15:35 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f127c2a3d6e28b637cc259234e79cfa9)] -> css selector: #flight-origin-hp-flight] entered value as : Delhi, India (DEL-Indira Gandhi Intl.)
+21/08/2018 00:15:39 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f127c2a3d6e28b637cc259234e79cfa9)] -> css selector: #flight-destination-hp-flight] entered value as : Hyderabad, India (HYD-Rajiv Gandhi Intl.)
+21/08/2018 00:15:39 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f127c2a3d6e28b637cc259234e79cfa9)] -> css selector: #flight-departing-hp-flight] entered value as : 25/08/2018
+21/08/2018 00:15:40 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f127c2a3d6e28b637cc259234e79cfa9)] -> css selector: #flight-returning-hp-flight] entered value as : 25/08/2018
+21/08/2018 00:15:40 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f127c2a3d6e28b637cc259234e79cfa9)] -> css selector: #flight-adults-hp-flight] entered value as : 2.0
+21/08/2018 00:15:40 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f127c2a3d6e28b637cc259234e79cfa9)] -> css selector: #flight-children-hp-flight] entered value as : 2.0
+21/08/2018 00:15:41 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f127c2a3d6e28b637cc259234e79cfa9)] -> css selector: #flight-age-select-1-hp-flight] entered value as : 8.0
+21/08/2018 00:15:41 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (f127c2a3d6e28b637cc259234e79cfa9)] -> css selector: #flight-age-select-2-hp-flight] entered value as : 5.0
+21/08/2018 00:16:24 devpinoyLogger Clicking on an Element : Proxy element for: org.openqa.selenium.support.pagefactory.AjaxElementLocator@23d1e5d0
+21/08/2018 00:16:42 devpinoyLogger launching chrome browser

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FlightSearchTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="49.659">
+  <properties />
+  
+  
+            <testcase name="FlightSearchTest" time="49.659" classname="com.qa.testcases.FlightSearchTest" />
+      
+</testsuite>
